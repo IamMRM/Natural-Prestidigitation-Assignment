@@ -1,0 +1,28 @@
+A) Author information:
+1)	Muhammad Roshan Mughees
+	BSCS-6A
+	193590
+
+B) Description:
+
+a program that determines the distribution of initial
+digits in a set of data. In the end, we want a program that reads in a list of positive
+numbers and outputs a list of 10 values: the frequency with which each digit 0–9 appears
+as the nth digit of one of the input numbers.
+
+C)Number pattern found:
+	1 - zero is repeated the most.
+
+D) Law outlining pattern:
+	It obeys Benford's Law.
+
+E)Optional task not done
+
+F)Suggestion/comment:
+	Such Tasks should be practiced in the labs where the lab assistants can help us in understanding 
+it better prior to getting them as assignments so that we dont have to rely on google only to perform tasks 
+as it is almost next to impossible as it is really hard to find time for these and majoity times the solutions
+given in google are really next level and impossible to understand.
+
+	Moreover, after the submission of assignments and labs , a proper class should be arranged to make us understand
+our mistakes so that we can learn from them and not repeat them.
